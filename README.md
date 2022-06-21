@@ -26,7 +26,7 @@
      ### Basic Exploratory Data Analysis
      ### Data Pre-processing
      ### Compared multiple classifiers using pycaret’s compare_models function. Then took the top 3 models based on the                accuracy.
-     ### [For more detailed information about the model.](https://github.com/hariprasath-                   v/Techgig_HP_Machine_Learning/blob/main/HP_Machine_Learning_Challenge-Approach%20%26%20Solution.pdf)
+     ### [For more detailed information about the model.](https://github.com/hariprasath-v/Techgig_HP_Machine_Learning/blob/main/HP_Machine_Learning_Challenge-Approach%20%26%20Solution.pdf)
      
 
 ### ROC curve
